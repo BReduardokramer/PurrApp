@@ -1,7 +1,7 @@
 # PurrApp
 APK de demonstração compilada no MIT App Inventor.
 
-Download será disponível para Android a partir do segundo semestre de 2021.
+Download será disponível para Android a partir do primeiro semestre de 2022.
 
 ## Screenshots
 
@@ -15,11 +15,11 @@ Criado usando MIT App Inventor.
 ## In English language
 
 PurrApp is an demonstration app was built in MIT App Inventor.
-This app will be released to download in second half of 2021.
+This app will be released to download in the first half of 2022.
 
 ## Screenshots
 
-The screenshot will be available in second half of 2021.
+The screenshot will be available in the first half of 2022.
 
 In the case of an problem, bugs or something else, you can provide feedbacks on the future versions, more than the other ones.
 This app was built on MIT App Inventor.
